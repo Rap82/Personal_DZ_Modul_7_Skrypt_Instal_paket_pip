@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: clean_folder
+Version: 1.0.0
+Summary: Sorted file s folder
+Home-page: https://github.com/Rap82
+Author: Rap82
+Author-email: andrewrizh@gmail.com
+License: MIT
+Requires-Dist: markdown
